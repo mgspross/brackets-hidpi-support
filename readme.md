@@ -10,7 +10,7 @@ Instead of trying to resize individual parts of the Brackets UI, this extension 
 
 You can make your own adjustments by editing main.js in your user extension folder.
 
-In Brackets, click: _Help_ > _Show Extensions Folder_ > Navigate to `user` directory > Navigate to `brackets-hidpi-support` > open `main.js`, review CSS, and edit as needed. Save and push F5 to reload the Brackets window to test your adjustments.
+In Brackets, click: _Help_ > _Show Extensions Folder_ > navigate to `user` directory > navigate to `brackets-hidpi-support` > open `main.js`, review CSS, and edit as needed. Save and push F5 to reload the Brackets window to test your adjustments.
 
 You can edit to your heart's content. We recommend changing the folder name so you avoid having your changes overwritten with future updates to the extension.
 
