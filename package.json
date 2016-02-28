@@ -1,16 +1,16 @@
 {
-  "name": "ui-too-small",
-  "title": "UI too small",
-  "description": "Increase font sizes for people working on high dpi displays on Linux",
-  "homepage": "https://github.com/1beb/ui-too-small",
-  "author": "Brandon Bertelsen",
+  "name": "brackets-hidpi-support",
+  "title": "Scales Brackets to display correctly on high-resolution displays",
+  "description": "",
+  "homepage": "https://github.com/mgspross/brackets-hidpi-support",
+  "author": "Mike Spross",
   "license": "MIT",
   "engines": {
     "brackets": "*"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/1beb/ui-too-small.git"
+    "url": "https://github.com/mgspross/brackets-hidpi-support.git"
   },
-  "version": "0.0.3"
+  "version": "0.0.1"
 }
