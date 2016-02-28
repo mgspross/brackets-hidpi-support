@@ -1,4 +1,4 @@
-# Brackets HiDI Support
+# Brackets HiDPI Support
 
 Simple extension that scales the Brackets editor by 200%, so that it displays correctly on HiDPI displays. This extension was inspired by https://github.com/1beb/ui-too-small.
 
