@@ -4,7 +4,7 @@ Simple extension that scales the Brackets editor by 200%, so that it displays co
 
 # How it Works
 
-Instead of trying to resize individual parts of the Brackets UI, this extension simply applies a `zoom: 2 !important` CSS rule to the UI's `body` element, since the `zoom` proprety is supported by the WebKit engine and has the same effect as zooming a page in the browser.
+Instead of trying to resize individual parts of the Brackets UI, this extension simply applies a `zoom: 2 !important` CSS rule to the UI's `body` element. Since the `zoom` proprety is supported by the WebKit engine and has the same effect as zooming a page in the browser, this scales the entire UI up proportionately, including spacing between elements.
 
 ## Configuration
 
