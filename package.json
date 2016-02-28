@@ -1,7 +1,7 @@
 {
   "name": "brackets-hidpi-support",
-  "title": "Scales Brackets to display correctly on high-resolution displays",
-  "description": "",
+  "title": "Brackets HiDPI Support (Linux)",
+  "description": "Scales the Brackets application UI so that it displays correctly on high-resolution displays. On HiDPI displays, Brackets tends to render too small, and this extension corrects the problem. Tested on ArchLinux with Gnome 3.",
   "homepage": "https://github.com/mgspross/brackets-hidpi-support",
   "author": "Mike Spross",
   "license": "MIT",
